@@ -29,3 +29,6 @@
 - 생성 데이터 형상
 
 <img src='gan_data.png' width = 400>
+
+
+---
